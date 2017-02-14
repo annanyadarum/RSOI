@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BooksService.iml" filepath="$PROJECT_DIR$/.idea/modules/BooksService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BooksService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BooksService_main.iml" group="BooksService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BooksService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BooksService_test.iml" group="BooksService" />
+    </modules>
+  </component>
+</project>

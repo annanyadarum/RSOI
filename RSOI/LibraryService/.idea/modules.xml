@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryService.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryService_main.iml" group="LibraryService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryService_test.iml" group="LibraryService" />
+    </modules>
+  </component>
+</project>

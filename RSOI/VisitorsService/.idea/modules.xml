@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VisitorsService.iml" filepath="$PROJECT_DIR$/.idea/modules/VisitorsService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VisitorsService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VisitorsService_main.iml" group="VisitorsService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VisitorsService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VisitorsService_test.iml" group="VisitorsService" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title th:title="#{title}"></title>
+    <meta charset="UTF-8"/>
+</head>
+<body>
+<form th:action="@{/authorize/grant}" method="post">
+
+<h2 th:text="#{grantAuthorization.title}"></h2>
+
+<div class="submit">
+    <button type="submit" name="grantAuthorization">Предоставить</button>
+</div>
+</form>
+
+</body>
+</html>
